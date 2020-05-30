@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588236876 source:e:\презентации\проект по астрономии. эфемериды\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
